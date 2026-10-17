@@ -7,7 +7,18 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 630 (9s62), 2026-10-17. Made by The Forge, 17 October 2026.
+Build 631 (9s63), 2026-10-17. Made by The Forge, 17 October 2026.
+
+New in 631. The Forge has its own supports, the same ones Carpe Diem has, all
+inside this one file: a thought-bubble side button under the bell, with a
+light raised thoughts panel you can drag and resize from any edge (the minus
+key puts words away and the bubble reminds you; the cross asks before letting
+them go), a count of what waits, gentle reminders that take turns between the
+parts of your life, and a Focus room at the head of the day's group on the
+rail: Now, Steps, Time, the Inbox, Calm, Routines, Today in the Forge, and a
+switch for each support. The live preview no longer shakes while the Editor
+scrolls: its height is now measured from the page itself, not from where the
+page has scrolled to.
 
 THIS PACKAGE IS FOR: iPhone and iPad (one app for both).
 
@@ -208,7 +219,7 @@ THE APP FILE, TheForge.ipa
     and open the repository's "Releases" page, then the release
     "The Forge for iPhone and iPad". Under "Assets", click
     TheForge.ipa to download it. The release notes say "build" and a
-    number: if it is 630, it is this version. Go to step 16.
+    number: if it is 631, it is this version. Go to step 16.
 15. Otherwise, have GitHub build it once (Part 3), then come back here.
 
 ONCE, ON THE WINDOWS LAPTOP
