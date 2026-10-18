@@ -7,9 +7,20 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 632 (9s64), 2026-10-18. Made by The Forge, 18 October 2026.
+Build 633 (9s65), 2026-10-18. Made by The Forge, 18 October 2026.
 
-New in 632. The Forge carries your four apps inside this one file, as
+New in 633. The tour and the Guidebook describe the workshop as it now
+stands: nine rooms on the rail in four groups, the Editor's five steps, and
+new cards for Files, Focus, the Inbox (the thought bubble), the Agenda and
+Projects, in English and French. The tour's Editing switch card rings the
+switch where it now is, and says that the Forge carries its apps inside it.
+Magister's tip and the Guidebook now say four questions for each module, as
+the Assessments room has them, and year 1, term 1 is said to hold eight
+lessons, as it does. The lesson shown after the carried apps are kept names
+the fingerprints they were checked against. It carries Ingenium 5.1,
+Carpe Diem 1054 and Inkwell 7.43, and a copy of itself.
+
+New in 632, the build before. The Forge carries your four apps inside this one file, as
 Ingenium does: Ingenium 5.0, Carpe Diem 1052 and Inkwell 7.43, and a copy of
 itself. On its first start on each device it keeps them in the Editor, each
 checked against its fingerprint, so no app library file is needed any more.
