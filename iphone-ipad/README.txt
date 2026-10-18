@@ -7,16 +7,29 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 637 (9s69), 2026-10-18. Made by The Forge, 18 October 2026.
+Build 638 (9s70), 2026-10-18. Made by The Forge, 18 October 2026.
 
-New in 637. The help level keys ("First day", "Finding my way",
+New in 638. Its Tabula lays out a long document as Word does: a
+paragraph that meets the foot of a page runs on to the next one, so no
+page ends in a blank gap, and a footnote is placed in a moment, even in
+a thesis (Inkwell 7.45's recipe). Footnotes stand at the foot of the
+page that cites them, are written where they stand, and go into Word
+files as real footnotes (Inkwell 7.48's recipe). Tabula keeps its
+raised pages when it is opened on its own. There is more room on the
+device: Tabula autosaves a document of up to 256 MB in the browser's
+larger store, and when the small store (about 5 MB) is full, the
+Forge's desk is kept in the larger store and opens from there. It
+carries Ingenium 5.5 (which brings in your Claude conversations),
+Carpe Diem 1056 and Inkwell 7.48.
+
+New in 637, the build before. The help level keys ("First day", "Finding my way",
 "At ease") are raised and move like every other key in the Forge: they
 lift under the pointer, sink when pressed, and the chosen level is the
 filled key, which settles into place. They follow day, night and the
 Forge's Minimal motion setting. It carries the same apps as 636:
 Ingenium 5.4, Carpe Diem 1055 and Inkwell 7.45.
 
-New in 636, the build before. It carries Inkwell 7.45, which adds the checks a
+New in 636. It carries Inkwell 7.45, which adds the checks a
 doctoral editor makes on the whole document, places Chicago footnotes in
 a third of a second, and runs long paragraphs on across pages. It
 carries Carpe Diem 1055, whose Tabula holds a thesis of 100,000 words and
