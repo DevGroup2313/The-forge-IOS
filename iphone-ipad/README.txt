@@ -7,9 +7,19 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 631 (9s63), 2026-10-17. Made by The Forge, 17 October 2026.
+Build 632 (9s64), 2026-10-18. Made by The Forge, 18 October 2026.
 
-New in 631. The Forge has its own supports, the same ones Carpe Diem has, all
+New in 632. The Forge carries your four apps inside this one file, as
+Ingenium does: Ingenium 5.0, Carpe Diem 1052 and Inkwell 7.43, and a copy of
+itself. On its first start on each device it keeps them in the Editor, each
+checked against its fingerprint, so no app library file is needed any more.
+The copies it carries are lean: Ingenium comes without the apps Ingenium
+carries, and the Forge's copy of itself without the apps the Forge carries
+(a file cannot hold a full copy of an app that holds a full copy of it back).
+The thoughts panel now follows day and night while it is open, and the Focus
+room uses the newest support module.
+
+Since 631. The Forge has its own supports, the same ones Carpe Diem has, all
 inside this one file: a thought-bubble side button under the bell, with a
 light raised thoughts panel you can drag and resize from any edge (the minus
 key puts words away and the bubble reminds you; the cross asks before letting
