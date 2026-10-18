@@ -7,9 +7,23 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 638 (9s70), 2026-10-18. Made by The Forge, 18 October 2026.
+Build 639 (9s71), 2026-10-18. Made by The Forge, 18 October 2026.
 
-New in 638. Its Tabula lays out a long document as Word does: a
+New in 639. Fabrica, your own GitHub, now stands in the Forge, on the
+rail between Files and the Workshop, and it needs no model and no
+connection. Each of your apps is kept as a real git repository on the
+device: every version, the changes file by file and line by line, ideas
+as branches brought back into main, releases, and an undo that adds a
+version and never writes over one. Files are written in Fabrica's own
+file editor, or in the Forge's Editor, whose edits come back as changes
+to keep. A version is tested (five checks in a quiet window) and made as
+one page, as a web app, or as the Forge's five install packages; any git
+opens the folder, the bundle or the zip it saves, and GitHub is a switch
+you turn on only if you want it. The full page carries Ingenium 5.6, in
+which Decode a message and Draft a reply open a conversation of their
+own, with Carpe Diem 1056 and Inkwell 7.48.
+
+New in 638, the build before. Its Tabula lays out a long document as Word does: a
 paragraph that meets the foot of a page runs on to the next one, so no
 page ends in a blank gap, and a footnote is placed in a moment, even in
 a thesis (Inkwell 7.45's recipe). Footnotes stand at the foot of the
@@ -22,7 +36,7 @@ Forge's desk is kept in the larger store and opens from there. It
 carries Ingenium 5.5 (which brings in your Claude conversations),
 Carpe Diem 1056 and Inkwell 7.48.
 
-New in 637, the build before. The help level keys ("First day", "Finding my way",
+New in 637. The help level keys ("First day", "Finding my way",
 "At ease") are raised and move like every other key in the Forge: they
 lift under the pointer, sink when pressed, and the chosen level is the
 filled key, which settles into place. They follow day, night and the
