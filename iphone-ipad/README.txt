@@ -7,9 +7,15 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 633 (9s65), 2026-10-18. Made by The Forge, 18 October 2026.
+Build 634 (9s66), 2026-10-18. Made by The Forge, 18 October 2026.
 
-New in 633. The tour and the Guidebook describe the workshop as it now
+New in 634. It carries Ingenium 5.2, whose Lector now keeps your
+documents true to each new build: it measures your apps on your device,
+finds every figure an update changed in your own words, and updates your
+Word files in place, keeping each version. It also carries Carpe Diem 1054
+and Inkwell 7.43, and a copy of itself.
+
+New in 633, the build before. The tour and the Guidebook describe the workshop as it now
 stands: nine rooms on the rail in four groups, the Editor's five steps, and
 new cards for Files, Focus, the Inbox (the thought bubble), the Agenda and
 Projects, in English and French. The tour's Editing switch card rings the
