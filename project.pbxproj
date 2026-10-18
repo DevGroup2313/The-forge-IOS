@@ -165,7 +165,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 630;
+				CURRENT_PROJECT_VERSION = 639;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "TheForge/Info.plist";
@@ -174,7 +174,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 630;
+				MARKETING_VERSION = 639;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yannieforest.theforge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
@@ -189,7 +189,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 630;
+				CURRENT_PROJECT_VERSION = 639;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = "TheForge/Info.plist";
@@ -198,7 +198,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 630;
+				MARKETING_VERSION = 639;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.yannieforest.theforge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
