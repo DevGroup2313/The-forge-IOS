@@ -7,9 +7,14 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 639 (9s71), 2026-10-18. Made by The Forge, 18 October 2026.
+Build 640 (9s72), 2026-10-19. Made by The Forge, 19 October 2026.
 
-New in 639. Fabrica, your own GitHub, now stands in the Forge, on the
+New in 640. The Carpe Diem it carries is 1057, whose mini Forge is now
+The Forge 639 (it was 629) and opens on the Carpe Diem it lives in each
+time, editing Carpe Diem alone. The full page carries Ingenium 5.7,
+Carpe Diem 1057 and Inkwell 7.48. Nothing else in the Forge changes.
+
+New in 639, the build before. Fabrica, your own GitHub, now stands in the Forge, on the
 rail between Files and the Workshop, and it needs no model and no
 connection. Each of your apps is kept as a real git repository on the
 device: every version, the changes file by file and line by line, ideas
@@ -23,7 +28,7 @@ you turn on only if you want it. The full page carries Ingenium 5.6, in
 which Decode a message and Draft a reply open a conversation of their
 own, with Carpe Diem 1056 and Inkwell 7.48.
 
-New in 638, the build before. Its Tabula lays out a long document as Word does: a
+New in 638. Its Tabula lays out a long document as Word does: a
 paragraph that meets the foot of a page runs on to the next one, so no
 page ends in a blank gap, and a footnote is placed in a moment, even in
 a thesis (Inkwell 7.45's recipe). Footnotes stand at the foot of the
