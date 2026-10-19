@@ -7,14 +7,23 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 640 (9s72), 2026-10-19. Made by The Forge, 19 October 2026.
+Build 641 (9s73), 2026-10-19. Made by The Forge, 19 October 2026.
 
-New in 640. The Carpe Diem it carries is 1057, whose mini Forge is now
+New in 641. The Carpe Diem it carries is 1058, whose mini Forge is now
+The Forge 641 (it was 639). The full page carries Ingenium 5.9, which
+carries The Forge 641 in turn, Carpe Diem 1058 and Inkwell 7.49. The
+About panel and the footer show the build number and stamp, Build 641 ·
+9s73, with no date, and the Guide, a Magister lesson and the glossary no
+longer read the build by a date or by an old number. Fabrica's frame now
+follows the room's head while the help card above it unfolds, so it no
+longer runs below the window's edge. Nothing else in the Forge changes.
+
+New in 640, the build before. The Carpe Diem it carries is 1057, whose mini Forge is now
 The Forge 639 (it was 629) and opens on the Carpe Diem it lives in each
 time, editing Carpe Diem alone. The full page carries Ingenium 5.7,
 Carpe Diem 1057 and Inkwell 7.48. Nothing else in the Forge changes.
 
-New in 639, the build before. Fabrica, your own GitHub, now stands in the Forge, on the
+New in 639. Fabrica, your own GitHub, now stands in the Forge, on the
 rail between Files and the Workshop, and it needs no model and no
 connection. Each of your apps is kept as a real git repository on the
 device: every version, the changes file by file and line by line, ideas
