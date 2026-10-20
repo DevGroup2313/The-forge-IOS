@@ -30,6 +30,11 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
     private var lightTop = true
     private var pageTestSent = false
     private var downloadTargets: [ObjectIdentifier: URL] = [:]
+    /* 642: saves wait their turn. iOS shows one share sheet at a time and drops a second asked for while the
+       first is open, so several files saved together lost all but the first; now each opens when the one before
+       closes. */
+    private var saveQueue: [(Data?, URL?, String)] = []
+    private var saveShowing = false
 
     override func loadView() {
         let config = WKWebViewConfiguration()
@@ -201,13 +206,31 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
                   let b64 = body["b64"] as? String,
                   let data = Data(base64Encoded: b64, options: .ignoreUnknownCharacters) else { return }
             let name = (body["name"] as? String) ?? "the_forge"
-            SaveSheet.present(data: data, name: name, from: topController())
+            saveQueue.append((data, nil, name))
+            nextSave()
         case "shellEdge":
             if let css = message.body as? String { applyEdge(css) }
         case "shellLog":
             if let text = message.body as? String { print(text) }
         default:
             break
+        }
+    }
+
+    /// the share sheet for the first file waiting, when none is open (642)
+    private func nextSave() {
+        if saveShowing || saveQueue.isEmpty { return }
+        saveShowing = true
+        let item = saveQueue.removeFirst()
+        let done: () -> Void = { [weak self] in
+            DispatchQueue.main.async { self?.saveShowing = false; self?.nextSave() }
+        }
+        if let data = item.0 {
+            SaveSheet.present(data: data, name: item.2, from: topController(), done: done)
+        } else if let file = item.1 {
+            SaveSheet.present(file: file, from: topController(), done: done)
+        } else {
+            done()
         }
     }
 
@@ -288,7 +311,8 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
 
     func downloadDidFinish(_ download: WKDownload) {
         if let file = downloadTargets.removeValue(forKey: ObjectIdentifier(download)) {
-            SaveSheet.present(file: file, from: topController())
+            saveQueue.append((nil, file, file.lastPathComponent))
+            nextSave()
         }
     }
 

@@ -19,16 +19,18 @@ enum SaveSheet {
         return dir.appendingPathComponent(safeFileName(name))
     }
 
-    static func present(data: Data, name: String, from presenter: UIViewController) {
+    static func present(data: Data, name: String, from presenter: UIViewController, done: (() -> Void)? = nil) {
         let url = temporaryFile(named: name)
-        do { try data.write(to: url, options: .atomic) } catch { return }
-        present(file: url, from: presenter)
+        do { try data.write(to: url, options: .atomic) } catch { done?(); return }
+        present(file: url, from: presenter, done: done)
     }
 
-    static func present(file url: URL, from presenter: UIViewController) {
+    /// done: called once the sheet has closed, so the next file waiting can have its own sheet (642)
+    static func present(file url: URL, from presenter: UIViewController, done: (() -> Void)? = nil) {
         let sheet = UIActivityViewController(activityItems: [url], applicationActivities: nil)
         sheet.completionWithItemsHandler = { _, _, _, _ in
             try? FileManager.default.removeItem(at: url.deletingLastPathComponent())
+            done?()
         }
         if let pop = sheet.popoverPresentationController {
             pop.sourceView = presenter.view
