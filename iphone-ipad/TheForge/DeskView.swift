@@ -331,6 +331,7 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
     }
 
     func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
+        startPulse()
         if DeskViewController.pageTest && !pageTestSent {
             pageTestSent = true
             webView.evaluateJavaScript(DeskViewController.pageTestJS, completionHandler: nil)
@@ -341,6 +342,54 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
     /// rather than leave a blank window. Your work is safe in storage.
     func webViewWebContentProcessDidTerminate(_ webView: WKWebView) {
         webView.load(URLRequest(url: DeskViewController.entryURL))
+    }
+
+    /* ---------------------------------------------- a page that stops answering */
+
+    /// PASS 643. The owner's words (20 October 2026): "I want a refresh button added to Ingenium and the Forge, that
+    /// refreshed the app if it glitches or freezes." The page's own Refresh key cannot be pressed while the page is
+    /// frozen, so once the page has loaded the app asks it a trivial question every ten seconds. When no answer has
+    /// come for twenty-five seconds, it asks the owner: wait, or start the page again. A pause while the app was in
+    /// the background is never counted.
+    private var pulse: Timer?
+    private var lastAnswer = Date()
+    private var lastBeat = Date()
+    private var askingStuck = false
+
+    private func startPulse() {
+        pulse?.invalidate()
+        lastAnswer = Date()
+        lastBeat = Date()
+        pulse = Timer.scheduledTimer(withTimeInterval: 10, repeats: true) { [weak self] _ in self?.beat() }
+    }
+
+    private func beat() {
+        let now = Date()
+        // a long gap between beats means the app was asleep, not that the page was stuck
+        if now.timeIntervalSince(lastBeat) > 20 || UIApplication.shared.applicationState != .active { lastAnswer = now }
+        lastBeat = now
+        webView.evaluateJavaScript("1") { [weak self] _, _ in self?.lastAnswer = Date() }
+        if !askingStuck, now.timeIntervalSince(lastAnswer) > 25 { askStuck() }
+    }
+
+    private func askStuck() {
+        guard presentedViewController == nil else { return }
+        askingStuck = true
+        let ask = UIAlertController(
+            title: "The Forge is not answering",
+            message: "The page has stopped answering for a while. It may still be painting something large. You can wait, or start the Forge again; your saved work stays where it is.",
+            preferredStyle: .alert)
+        ask.addAction(UIAlertAction(title: "Wait", style: .cancel) { [weak self] _ in
+            self?.askingStuck = false
+            self?.lastAnswer = Date()
+        })
+        ask.addAction(UIAlertAction(title: "Start again", style: .default) { [weak self] _ in
+            guard let self = self else { return }
+            self.askingStuck = false
+            self.lastAnswer = Date()
+            self.webView.load(URLRequest(url: DeskViewController.entryURL))
+        })
+        present(ask, animated: true)
     }
 
     /* ---------------------------------------------------------- microphone */
