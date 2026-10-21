@@ -7,9 +7,23 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 642 (9s74), 2026-10-20. Made by The Forge, 20 October 2026.
+Build 643 (9s75), 2026-10-21. Made by The Forge, 21 October 2026.
 
-New in 642. Fabrica saves its five install packages one after another,
+New in 643. While the Forge starts, a loading page now says the page is
+still being painted and how far it has got, so a slow start never looks
+like a crash; after a long wait it offers to start again. Refresh the
+app is a key in the Display menu and at the top of Settings: it saves
+your work first and starts the Forge again, and asks first while Fabrica
+is still making something. On a Mac, the app menu holds Refresh The
+Forge, which works even when the page has stopped answering; on the Fire
+tablet, the iPhone and the iPad, the app asks whether to wait or start
+again when the page stops answering. A room opened for the first time
+shows a short note while it is painted. Fabrica now has the views of
+GitHub beside its own: Code, Issues, Pull requests, Compare, Actions,
+Projects, Wiki, Insights and Settings, kept on this device. The full
+page carries Ingenium 6.1, Carpe Diem 1058 and Inkwell 7.49.
+
+New in 642, the build before. Fabrica saves its five install packages one after another,
 each under its own name: before, they were saved at the same moment, so
 the Mac package could hold the Fire one. Every other save in the Forge
 waits its turn too (the Editor's All six), and the Fire app and the
@@ -19,7 +33,7 @@ and has its own Make and save key, Releases keeps what was made, and an
 app can be renamed or removed from Fabrica. The full page carries
 Ingenium 6.0, Carpe Diem 1058 and Inkwell 7.49.
 
-New in 641, the build before. The Carpe Diem it carries is 1058, whose mini Forge is now
+New in 641. The Carpe Diem it carries is 1058, whose mini Forge is now
 The Forge 641 (it was 639). The full page carries Ingenium 5.9, which
 carries The Forge 641 in turn, Carpe Diem 1058 and Inkwell 7.49. The
 About panel and the footer show the build number and stamp, Build 641 ·
