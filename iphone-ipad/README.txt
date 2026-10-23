@@ -7,9 +7,31 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 643 (9s75), 2026-10-21. Made by The Forge, 21 October 2026.
+Build 644 (9s76), 2026-10-21. Made by The Forge, 21 October 2026.
 
-New in 643. While the Forge starts, a loading page now says the page is
+New in 644. The Quiet Screen from Ingenium is now in the Forge too: the
+leaf in the side column, or I need quiet on the Calm card, opens it.
+Timed reminders appear in a blue card in the Forge's own colours, and
+the Editor's live preview holds still while the room scrolls. The Forge
+now does what Ingenium does, without AI: Files' Edit as text opens a
+file of any size part by part, its data kept aside, and Keep the change
+puts the whole file back together; chats brought in from other
+assistants (ChatGPT, Claude, Gemini, Grok, DeepSeek and others) are
+kept, searched and read here, and the code and documents in them are
+kept as the Forge's own files. On a Mac the Forge starts sooner: the
+apps it carries are read from files beside the page only when they are
+used, and the page repaints less while it is idle. Settings, About holds
+the Forge's licence (version 2) whole: the Forge is the owner's sole
+original work, and every right in it is the owner's; a permission the
+owner signs is checked here against the owner's key, and one that is
+changed, ended or withdrawn allows nothing. A page opened in a window of
+its own (the preview's Open, Fabrica's Run) now runs in a sealed frame,
+so it can never read what the Forge keeps; on a Mac and on Windows the
+app's own address answers the Forge's window only. The accessibility
+audit's findings are put right, and the side column fits a short screen.
+The full page carries Ingenium 6.2, Carpe Diem 1058 and Inkwell 7.49.
+
+New in 643, the build before. While the Forge starts, a loading page now says the page is
 still being painted and how far it has got, so a slow start never looks
 like a crash; after a long wait it offers to start again. Refresh the
 app is a key in the Display menu and at the top of Settings: it saves
@@ -23,7 +45,7 @@ GitHub beside its own: Code, Issues, Pull requests, Compare, Actions,
 Projects, Wiki, Insights and Settings, kept on this device. The full
 page carries Ingenium 6.1, Carpe Diem 1058 and Inkwell 7.49.
 
-New in 642, the build before. Fabrica saves its five install packages one after another,
+New in 642. Fabrica saves its five install packages one after another,
 each under its own name: before, they were saved at the same moment, so
 the Mac package could hold the Fire one. Every other save in the Forge
 waits its turn too (the Editor's All six), and the Fire app and the
