@@ -4,3 +4,6 @@ Pass: 644
 Stamp: 9s76
 Copyright (c) 2026 Yannie D. Forest. All rights reserved.
 NO LICENCE IS GRANTED.
+
+Fingerprints (SHA-256). A copy whose fingerprint differs is not the owner's release (LICENCE.txt):
+  fb0ff59b336854d68c2ca42a4534dcc593d4983037756ab1df560eff6b3a113c  TheForge/www/the_forge.html (63747457 bytes)
