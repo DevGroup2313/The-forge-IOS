@@ -7,9 +7,30 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 644 (9s76), 2026-10-21. Made by The Forge, 21 October 2026.
+Build 645 (9s77), 2026-10-23. Made by The Forge, 23 October 2026.
 
-New in 644. The Quiet Screen from Ingenium is now in the Forge too: the
+New in 645. A real code editor wherever the Forge shows code: line
+numbers, colours for each language, find and replace, and Undo, in
+Files' Edit as text, the Studio's code and Fabrica's files. A file of up
+to 40 MB opens whole in Files (8 MB on a tablet or a phone), and much
+larger ones part by part. Three helps for learning sit on the editor's
+bar: Glossa says in plain words where the cursor is, what its line does
+and what the word under it means; Calm dims what is not being worked on;
+Lima finds notes, empty lines, styles nothing names and functions
+nothing calls, and takes out only what is chosen, with one Undo putting
+everything back. Fabrica is calmer: an app's work is in four rooms, Now,
+Story, Plans and Care, each showing only its own tabs, and Test and ship
+shows one part at a time, Test, Ship or Copies, so nothing hides below
+the fold; Fabrica now describes itself in its own words, and the name
+GitHub stays only where you connect to it. Its limits are far higher (a
+change shown line by line up to 64 MB a file, the app's search 64 MB a
+file and 20,000 files). The Guidebook's newer entries are laid out like
+the rest, their numbered steps no longer at the panel's edge. The
+Forge's own code no longer carries the notes written while it was built
+(licence notices kept), and the code is proved the same. The full page
+carries Ingenium 6.3, Carpe Diem 1058 and Inkwell 7.51.
+
+New in 644, the build before. The Quiet Screen from Ingenium is now in the Forge too: the
 leaf in the side column, or I need quiet on the Calm card, opens it.
 Timed reminders appear in a blue card in the Forge's own colours, and
 the Editor's live preview holds still while the room scrolls. The Forge
@@ -31,7 +52,7 @@ app's own address answers the Forge's window only. The accessibility
 audit's findings are put right, and the side column fits a short screen.
 The full page carries Ingenium 6.2, Carpe Diem 1058 and Inkwell 7.49.
 
-New in 643, the build before. While the Forge starts, a loading page now says the page is
+New in 643. While the Forge starts, a loading page now says the page is
 still being painted and how far it has got, so a slow start never looks
 like a crash; after a long wait it offers to start again. Refresh the
 app is a key in the Display menu and at the top of Settings: it saves

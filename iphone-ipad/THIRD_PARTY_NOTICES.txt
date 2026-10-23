@@ -1,19 +1,19 @@
 THE FORGE: THIRD-PARTY NOTICES
 ==============================
 
-The Forge itself is the sole original work of Yannie D. Forest; see LICENCE.txt. The Forge's page carries copies of the
-owner's other apps (Ingenium, Carpe Diem and Inkwell), and they carry the following open-source software, word lists and
-fonts, under their own licences, reproduced or named here as those licences require. They are not the owner's work, and
-the owner's licence does not cover them.
+The Forge itself is the sole original work of Yannie D. Forest; see LICENCE.txt. The Forge's page carries a code editor
+built from CodeMirror (section 6), and copies of the owner's other apps (Ingenium, Carpe Diem and Inkwell), which carry
+the following open-source software, word lists and fonts, under their own licences, reproduced or named here as those
+licences require. They are not the owner's work, and the owner's licence does not cover them.
 
 1. wllama (the WebAssembly engine inside the Ingenium the Forge carries)
    https://github.com/ngxson/wllama, version 3.6.1
-   MIT License, Copyright (c) 2024 Xuan Son NGUYEN (text in section 7).
+   MIT License, Copyright (c) 2024 Xuan Son NGUYEN (text in section 8).
 
 2. llama.cpp and ggml (inside wllama, and in Ingenium's model converter, which carries quantization routines adapted
    from ggml-quants.c and the tokenizer fingerprints of llama.cpp's converter)
    https://github.com/ggml-org/llama.cpp
-   MIT License, Copyright (c) 2023-2026 The ggml authors (text in section 7).
+   MIT License, Copyright (c) 2023-2026 The ggml authors (text in section 8).
 
 3. Ingenium's eyes (the picture reader inside the Ingenium the Forge carries), each under the Apache License 2.0
    (https://www.apache.org/licenses/LICENSE-2.0):
@@ -27,7 +27,7 @@ the owner's licence does not cover them.
    - English trained data 4.0.0_best_int (tessdata_best), Copyright Google Inc. and the Tesseract contributors.
    Bundled inside Tesseract.js: regenerator-runtime, Copyright (c) 2014-present Facebook, Inc. (MIT License); buffer, by
    Feross Aboukhadijeh (MIT License); ieee754, Copyright (c) 2008, Fair Oaks Labs, Inc. (BSD 3-Clause License); zlib.js,
-   Copyright 2012 imaya (MIT License). Texts in section 7.
+   Copyright 2012 imaya (MIT License). Texts in section 8.
 
 4. Fonts, each under the SIL Open Font License, Version 1.1 (https://openfontlicense.org), which lets them be used,
    embedded and redistributed with software, but not sold by themselves; each font file keeps its copyright notice and
@@ -47,7 +47,18 @@ the owner's licence does not cover them.
    The word lists draw on further sources, each with a permissive notice of its own; Inkwell's own copy keeps them all
    (vendor/SCOWL-LICENCE.txt).
 
-6. The Mac and Windows apps' window and packaging, each under its own licence:
+6. CodeMirror 6 (the code editor in the Forge's own page and in the Ingenium it carries), with its parsers (Lezer)
+   https://codemirror.net, https://lezer.codemirror.net
+   MIT License, Copyright (C) 2016-2024 by Marijn Haverbeke <marijn@haverbeke.berlin> and others, each package naming
+   its own years (text in section 8):
+   codemirror 6.0.2; @codemirror/autocomplete 6.20.4, commands 6.11.1, language 6.13.1, legacy-modes 6.5.5, lint 6.9.7,
+   merge 6.12.3, search 6.7.2, state 6.7.6, view 6.43.15, and the languages cpp 6.0.3, css 6.3.1, html 6.4.12, java 6.0.2,
+   javascript 6.2.5, json 6.0.2, markdown 6.5.2, php 6.0.2, python 6.2.1, rust 6.0.2, sql 6.10.0, xml 6.1.0, yaml 6.1.3;
+   @lezer/common 1.5.4, highlight 1.2.5, lr 1.4.11, and the grammars cpp 1.1.6, css 1.3.9, html 1.3.13, java 1.1.5,
+   javascript 1.5.6, json 1.0.3, markdown 1.8.1, php 1.0.6, python 1.1.19, rust 1.0.3, xml 1.0.6, yaml 1.0.4;
+   style-mod 4.1.4, w3c-keyname 2.2.8, crelt 1.0.7 and @marijn/find-cluster-break 1.0.4, by Marijn Haverbeke (MIT License).
+
+7. The Mac and Windows apps' window and packaging, each under its own licence:
    - Python, Python Software Foundation License, https://docs.python.org/3/license.html
    - pywebview, BSD 3-Clause License, https://github.com/r0x0r/pywebview
    - PyInstaller's bootloader, GPL 2.0 with an exception that permits distributing programs built with it,
@@ -56,9 +67,9 @@ the owner's licence does not cover them.
    - PyObjC (Mac), MIT License, https://github.com/ronaldoussoren/pyobjc
    - bottle (pywebview's local server), MIT License, https://github.com/bottlepy/bottle
 
-7. The licence texts
+8. The licence texts
 
-   MIT License (wllama, llama.cpp and ggml, regenerator-runtime, buffer, zlib.js, pythonnet, PyObjC, bottle; each with
+   MIT License (CodeMirror and Lezer, wllama, llama.cpp and ggml, regenerator-runtime, buffer, zlib.js, pythonnet, PyObjC, bottle; each with
    its own copyright notice above):
 
    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
