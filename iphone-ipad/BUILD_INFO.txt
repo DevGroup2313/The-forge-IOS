@@ -6,4 +6,4 @@ Copyright (c) 2026 Yannie D. Forest. All rights reserved.
 NO LICENCE IS GRANTED.
 
 Fingerprints (SHA-256). A copy whose fingerprint differs is not the owner's release (LICENCE.txt):
-  5d4d75b7d6fa0b4e09083e0502da0d48d6289278dd3b8a1f528c83fc2ddc0d30  TheForge/www/the_forge.html (54630743 bytes)
+  f2adae01e976c1ed044f30906f6ac742e4677d83870a47262d6c3f000cffa463  TheForge/www/the_forge.html (54631159 bytes)
