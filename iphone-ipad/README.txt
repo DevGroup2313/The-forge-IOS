@@ -7,9 +7,23 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 645 (9s77), 2026-10-23. Made by The Forge, 23 October 2026.
+Build 646 (9s78), 2026-10-24. Made by The Forge, 24 October 2026.
 
-New in 645. A real code editor wherever the Forge shows code: line
+New in 646. Break it down, on the Focus room, now reads the task: each
+part of it, its doing word and what it is about, and offers small steps
+that name it ("Write in one line what you will see when make the menu
+work on a phone is done"), the first always a small one; a task of two
+parts becomes two steps. Fabrica can go through a change part by part:
+each part of a changed file has its own key, Put this part back, and the
+other changes stay, ready to keep. Code has Find and replace across
+every file of an app: it shows each file's lines before and after first,
+matches capitals or whole words only when asked, and one Undo puts the
+whole replacement back. On Windows, the installer points a shortcut or a
+pin left by an older Forge at the installed program, and says plainly if
+an antivirus removes the program after installing. The full page carries
+Ingenium 6.4, Carpe Diem 1058 and Inkwell 7.51.
+
+New in 645, the build before. A real code editor wherever the Forge shows code: line
 numbers, colours for each language, find and replace, and Undo, in
 Files' Edit as text, the Studio's code and Fabrica's files. A file of up
 to 40 MB opens whole in Files (8 MB on a tablet or a phone), and much
@@ -30,7 +44,7 @@ Forge's own code no longer carries the notes written while it was built
 (licence notices kept), and the code is proved the same. The full page
 carries Ingenium 6.3, Carpe Diem 1058 and Inkwell 7.51.
 
-New in 644, the build before. The Quiet Screen from Ingenium is now in the Forge too: the
+New in 644. The Quiet Screen from Ingenium is now in the Forge too: the
 leaf in the side column, or I need quiet on the Calm card, opens it.
 Timed reminders appear in a blue card in the Forge's own colours, and
 the Editor's live preview holds still while the room scrolls. The Forge
