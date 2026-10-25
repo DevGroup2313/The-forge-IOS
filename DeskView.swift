@@ -200,6 +200,9 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
     /* --------------------------------------------- what the page may call */
 
     func userContentController(_ userContentController: WKUserContentController, didReceive message: WKScriptMessage) {
+        // 647 (security audit, 25 October 2026): only the Forge's own page and its own apps (the app's own
+        // address, carpe-app:) are heard; a page the Forge shows apart, in no origin, or any other address, is not
+        guard message.frameInfo.securityOrigin.protocol == DeskViewController.appScheme else { return }
         switch message.name {
         case "pySaveFile":
             guard let body = message.body as? [String: Any],
@@ -209,7 +212,7 @@ final class DeskViewController: UIViewController, WKNavigationDelegate, WKUIDele
             saveQueue.append((data, nil, name))
             nextSave()
         case "shellEdge":
-            if let css = message.body as? String { applyEdge(css) }
+            if message.frameInfo.isMainFrame, let css = message.body as? String { applyEdge(css) }
         case "shellLog":
             if let text = message.body as? String { print(text) }
         default:

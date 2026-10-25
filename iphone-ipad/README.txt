@@ -7,9 +7,38 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 646 (9s78), 2026-10-24. Made by The Forge, 24 October 2026.
+Build 647 (9s79), 2026-10-25. Made by The Forge, 25 October 2026.
 
-New in 646. Break it down, on the Focus room, now reads the task: each
+New in 647. The master Forge carries the full Carpe Diem 1058, not its
+committee demo, with the master edition of Ingenium and Inkwell 7.52;
+only the Forge's demonstration carries a demo. The licence is version 3,
+the owner's own key is carried, and a permission signed with it is
+checked in Settings, About. A page brought in from outside (Files, a
+backup, a chat's files, GitHub) is shown in the preview apart from the
+Forge: it runs, but cannot read what the Forge keeps, reach the window
+around it, or have the Forge save a file for it. The owner's own apps
+(those the Forge carries, builds baked from them, and any the owner
+marks with "This is my own app", pressed twice) keep the Forge's origin
+and its live edits. The diary and the command chat draw outside text
+through a strict cleaner, a zip brought in is unpacked only to the size
+it declares, and the five apps the Forge carries in its page (Tabula,
+Abacus, Imago, Scriba, Fontes) take in markup only through that cleaner.
+On Windows 10 the side menu and the side keys show Microsoft's flat
+emoji drawings, as on Windows 11, without the heavy black outline. A
+search in a large file opened part by part selects the word it found
+again. On Windows a page whose process stops is loaded again by itself;
+on a Mac, only the Forge's own page may call the program, and a document
+to print is opened only as a PDF, a web page, plain text or a picture. A
+file saved with no dialog never replaces another. The Fire tablet app is
+signed with a new key, handed over from the old one, which was in a
+public repository; its stored data stays on the tablet; the microphone
+is given only to the Forge's own page, links to other addresses open in
+the browser, no page is given the tablet's files, and the clipboard is
+read only for the Forge's own page. On the iPhone and iPad only the
+Forge's own page is heard, and the icon stands on white. The full page
+carries Ingenium 6.7.2, Carpe Diem 1058 and Inkwell 7.52.
+
+New in 646, the build before. Break it down, on the Focus room, now reads the task: each
 part of it, its doing word and what it is about, and offers small steps
 that name it ("Write in one line what you will see when make the menu
 work on a phone is done"), the first always a small one; a task of two
@@ -23,7 +52,7 @@ pin left by an older Forge at the installed program, and says plainly if
 an antivirus removes the program after installing. The full page carries
 Ingenium 6.4, Carpe Diem 1058 and Inkwell 7.51.
 
-New in 645, the build before. A real code editor wherever the Forge shows code: line
+New in 645. A real code editor wherever the Forge shows code: line
 numbers, colours for each language, find and replace, and Undo, in
 Files' Edit as text, the Studio's code and Fabrica's files. A file of up
 to 40 MB opens whole in Files (8 MB on a tablet or a phone), and much
