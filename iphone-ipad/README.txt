@@ -7,9 +7,25 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 647 (9s79), 2026-10-25. Made by The Forge, 25 October 2026.
+Build 648 (9s80), 2026-10-25. Made by The Forge, 25 October 2026.
 
-New in 647. The master Forge carries the full Carpe Diem 1058, not its
+New in 648. The second security review of 25 October 2026 is answered. A
+picture or file kept in the Editor is shown apart from the Forge (an SVG
+drawn as a picture, so nothing in it runs), and the preview starts apart
+until it knows the page. A build baked from an outside page is never
+checked with the Forge's origin, even after the bakery's file is
+changed. Imported edits in the Changes view, sticky notes from a
+restored backup, names given to the lessons, the kind of a restored file
+and Fontes' sources are drawn as text or through the strict cleaner. A
+part copied in the Studio goes through that cleaner too. Rooms open,
+close and take Scriba's live mark only at the word of the apps the Forge
+carries. On the Fire tablet writing to the clipboard needs the same key
+as reading. On Windows and on a Mac only web addresses (http, https) are
+handed to the system from a page. A new build always shows itself on a
+computer: the page is never kept from an earlier build. The full page
+carries Ingenium 6.7.3, Carpe Diem 1058 and Inkwell 7.52.
+
+New in 647, the build before. The master Forge carries the full Carpe Diem 1058, not its
 committee demo, with the master edition of Ingenium and Inkwell 7.52;
 only the Forge's demonstration carries a demo. The licence is version 3,
 the owner's own key is carried, and a permission signed with it is
@@ -38,7 +54,7 @@ read only for the Forge's own page. On the iPhone and iPad only the
 Forge's own page is heard, and the icon stands on white. The full page
 carries Ingenium 6.7.2, Carpe Diem 1058 and Inkwell 7.52.
 
-New in 646, the build before. Break it down, on the Focus room, now reads the task: each
+New in 646. Break it down, on the Focus room, now reads the task: each
 part of it, its doing word and what it is about, and offers small steps
 that name it ("Write in one line what you will see when make the menu
 work on a phone is done"), the first always a small one; a task of two
