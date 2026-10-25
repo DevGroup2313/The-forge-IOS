@@ -5,47 +5,97 @@ Copyright (c) 2026 Yannie D. Forest. All rights reserved.
 NO LICENCE IS GRANTED
 ===========================================================================
 
-This software and everything in it is the exclusive property of the author.
-Possession of a copy grants you no rights in it beyond reading it and running
-it yourself on your own device.
+OWNER'S STATEMENT OF EXCLUSIVE RIGHTS
+  The Forge, with every part it carries (among them its Editor,
+  Bakery, Compose, Files, Fabrica and Workshop, and the copies it holds of
+  Carpe Diem, Inkwell and Ingenium, each the work of the same author), is the sole original work of Yannie D. Forest, its author and
+  owner. Every right in it is reserved to the author alone.
+
+  Only the author may distribute, publish, host, sell, license, copy, edit,
+  modify, translate, adapt, remove, withdraw, or otherwise deal with this
+  work or any part of it, in any form and by any means. No one else holds
+  any of these rights. No one else has any right of access to this work,
+  or to any copy of it, except under a permission the author has given.
+
+PERMISSION IS LIMITED, PERSONAL AND REVOCABLE
+  The author may give a person a limited permission, in writing. Every such
+  permission:
+    - covers only what it states, for only the person it names;
+    - cannot be transferred, shared, sublicensed or assigned;
+    - may be narrowed, suspended or discontinued by the author at any time,
+      for any reason or for none, by notice to that person, with effect
+      from the moment the notice states.
+  When a permission ends, every use it allowed ends with it, and every copy
+  held under it must be deleted.
+
+  A copy the author has given you, or a demonstration the author has
+  published, carries a permission of this kind: to run it on your own
+  device for your own personal use, subject to everything in this notice.
+  A person who receives a copy in order to assess it (for example an
+  admissions panel, a departmental committee, an ethics board, or a
+  scholarship or grant committee) may run and examine it for that
+  assessment only, for as long as the assessment lasts, and must not keep,
+  copy, publish or pass it on.
+
+NOTHING IS IMPLIED
+  No licence or permission arises from possessing a copy, from receiving
+  one as a gift, from being shown a demonstration, from reviewing,
+  assessing or evaluating the work, from its being published or hosted
+  anywhere, or from any silence or delay of the author in enforcing these
+  terms.
 
 You may NOT, without the author's prior express written permission:
 
-  - copy, reproduce or redistribute this file or any part of it
+  - copy, reproduce, mirror or redistribute this work or any part of it
   - publish or host it, in whole or in part, publicly or privately
+  - sell, rent, lend, license or otherwise make it available to anyone
   - adapt, modify, translate or build upon it
   - reverse engineer it, or extract any component of it for reuse
   - incorporate any part of it into another work, product or service
   - use it, or anything derived from it, for any commercial purpose
-  - train, fine tune or evaluate any machine learning system on it
+  - remove or alter this notice, the author's name, or a build marker
+  - get round its edition lock, its integrity seal, or any other measure
+    that protects it
+  - crawl, scrape or harvest it, or train, fine tune or evaluate any
+    machine learning system on it
 
 This applies equally to the source code and to the WRITTEN AND DESIGNED WORK
-it carries, which is the substance of it: its text, the interface prose, the
-visual design and the icons. Each of these is an authored work in its own
-right and is protected independently of the code.
+it carries, which is the substance of it: its text, the guidebook, the tour,
+the French text, the interface prose, the visual design, the icons and the
+seal. Each of these is an
+authored work in its own right and is protected independently of the code.
 
-WHAT YOU MAY DO
-  - Read the file. Readability is a property of the artefact, not an
+THIRD-PARTY COMPONENTS
+  A few separate open-source components that the apps use are not the
+  author's work. They remain under their own licences, listed in
+  THIRD_PARTY_NOTICES.txt. Nothing in this notice claims them, and nothing
+  in their licences extends to any other part of this work.
+
+WHAT A PERMITTED USER MAY DO
+  - Read the file. It is a single readable file on purpose, so that its
+    claim to work offline and send nothing anywhere can be verified rather
+    than trusted. Readability is a property of the artefact, not an
     invitation.
-  - Run it for your own use.
-  - Keep your own backups of your own work.
+  - Run it on your own device, within your permission.
+  - Keep your own backups of your own work, which never leaves your device.
 
 IF YOU RECEIVED THIS AS A GIFT
-  It was given to you personally, for your own use. It was not given to you to
-  pass on. If you would like someone else to have a copy, ask the author.
+  It was given to you personally, for your own use. It was not given to you
+  to pass on. If you would like someone else to have a copy, ask the author.
 
 EVERY DISTRIBUTED COPY IS MARKED
-  Each copy carries a build marker, so a copy found in circulation can be
-  traced to the build it came from. This is stated plainly here rather than
-  concealed.
+  Each copy carries a build marker, and copies given to a named person carry
+  a marker unique to that copy, recorded against the date it was given. A
+  copy found in circulation can therefore be traced to the copy it came
+  from. This is stated plainly here rather than concealed.
 
 NO WARRANTY
-  The software is provided as is, without warranty of any kind. The author is
-  not liable for any loss arising from its use. Keep your own backups.
+  The software is provided as is, without warranty of any kind. The author
+  is not liable for any loss arising from its use. Keep your own backups.
 
 PERMISSION
-  Permission for any use not listed above may be granted, and is granted only
-  in writing, by the author. Ask. The answer is sometimes yes.
+  Permission for any use not listed above may be granted, and is granted
+  only in writing, by the author. Ask. The answer is sometimes yes.
 
 ===========================================================================
 Nothing in this notice limits any right you have that cannot be limited by

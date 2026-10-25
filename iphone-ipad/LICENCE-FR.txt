@@ -1,0 +1,127 @@
+THE FORGE
+Copyright (c) 2026 Yannie D. Forest. Tous droits réservés.
+
+===========================================================================
+AUCUNE LICENCE N'EST ACCORDÉE
+===========================================================================
+
+Ceci est la traduction française de LICENCE.txt. En cas de doute, le texte
+anglais fait foi.
+
+DÉCLARATION DES DROITS EXCLUSIFS DE L'AUTEUR
+  La Forge, avec chaque partie qu'elle porte (entre autres son Éditeur,
+  sa Boulangerie, Compose, Fichiers, Fabrica et l'Atelier, ainsi que les
+  copies qu'elle contient de Carpe Diem, Inkwell et Ingenium, chacune œuvre
+  du même auteur), est l'œuvre originale et exclusive de Yannie D. Forest, son
+  auteur et propriétaire. Tous les droits y afférents sont réservés à
+  l'auteur seul.
+
+  Seul l'auteur peut distribuer, publier, héberger, vendre, concéder sous
+  licence, copier, éditer, modifier, traduire, adapter, retirer ou exploiter
+  de quelque autre manière cette œuvre ou toute partie de celle-ci, sous
+  quelque forme et par quelque moyen que ce soit. Personne d'autre ne
+  détient aucun de ces droits. Personne d'autre n'a de droit d'accès à
+  cette œuvre, ni à aucune de ses copies, sauf en vertu d'une autorisation
+  donnée par l'auteur.
+
+TOUTE AUTORISATION EST LIMITÉE, PERSONNELLE ET RÉVOCABLE
+  L'auteur peut accorder à une personne une autorisation limitée, par écrit.
+  Toute autorisation de ce type :
+    - ne couvre que ce qu'elle énonce, pour la seule personne qu'elle nomme ;
+    - ne peut être ni transférée, ni partagée, ni sous-licenciée, ni cédée ;
+    - peut être restreinte, suspendue ou retirée par l'auteur à tout moment,
+      pour quelque raison que ce soit ou sans raison, par avis adressé à
+      cette personne, avec effet au moment indiqué dans l'avis.
+  Lorsqu'une autorisation prend fin, tout usage qu'elle permettait prend fin
+  avec elle, et toute copie détenue en vertu de celle-ci doit être effacée.
+
+  Une copie que l'auteur vous a donnée, ou une démonstration que l'auteur a
+  publiée, comporte une autorisation de ce type : l'utiliser sur votre
+  propre appareil, pour votre usage personnel, sous réserve de tout ce que
+  prévoit le présent avis. Une personne qui reçoit une copie afin de
+  l'évaluer (par exemple un jury d'admission, un comité de département, un
+  comité d'éthique, ou un comité de bourses ou de subventions) peut
+  l'utiliser et l'examiner pour cette seule évaluation, pendant la durée de
+  celle-ci, et ne doit ni la conserver, ni la copier, ni la publier, ni la
+  transmettre.
+
+RIEN N'EST IMPLICITE
+  Aucune licence ni autorisation ne découle de la possession d'une copie, de
+  sa réception en cadeau, d'une démonstration, de l'examen, de l'évaluation
+  ou de l'appréciation de l'œuvre, de sa publication ou de son hébergement
+  où que ce soit, ni du silence ou du retard de l'auteur à faire respecter
+  les présentes conditions.
+
+Il vous est INTERDIT, sans l'autorisation écrite, expresse et préalable de
+l'auteur :
+
+  - de copier, reproduire, dupliquer ou redistribuer cette œuvre ou toute
+    partie de celle-ci
+  - de la publier ou de l'héberger, en tout ou en partie, publiquement ou
+    en privé
+  - de la vendre, la louer, la prêter, la concéder sous licence ou la mettre
+    à la disposition de quiconque de toute autre manière
+  - de l'adapter, la modifier, la traduire ou de s'en servir comme base
+  - d'en faire l'ingénierie inverse, ou d'en extraire un élément pour le
+    réutiliser
+  - d'en incorporer une partie dans une autre œuvre, un produit ou un
+    service
+  - de l'utiliser, ou d'utiliser tout ce qui en dérive, à des fins
+    commerciales
+  - de supprimer ou de modifier le présent avis, le nom de l'auteur ou un
+    marqueur de version
+  - de contourner son verrou d'édition, son sceau d'intégrité ou toute
+    autre mesure qui la protège
+  - de l'explorer, la moissonner ou la collecter de manière automatisée, ou
+    d'entraîner, d'affiner ou d'évaluer un système d'apprentissage
+    automatique à partir de celle-ci
+
+Ceci s'applique au code source comme à l'ŒUVRE ÉCRITE ET CONÇUE qu'il porte,
+qui en est la substance : son texte, le guide, la visite, le
+texte français, la prose de l'interface, la conception visuelle, les icônes
+et le sceau. Chacun de ces éléments est une œuvre
+originale à part entière, protégée indépendamment du code.
+
+COMPOSANTS DE TIERS
+  Quelques composants libres distincts utilisés par les applications ne sont
+  pas l'œuvre de l'auteur. Ils restent soumis à leurs propres licences,
+  énumérées dans THIRD_PARTY_NOTICES.txt. Rien dans le présent avis ne les
+  revendique, et rien dans leurs licences ne s'étend à une autre partie de
+  cette œuvre.
+
+CE QU'UNE PERSONNE AUTORISÉE PEUT FAIRE
+  - Lire le fichier. Il s'agit volontairement d'un seul fichier lisible,
+    afin que l'on puisse vérifier, plutôt que croire sur parole, qu'il
+    fonctionne hors ligne et n'envoie rien nulle part. Sa lisibilité est une
+    propriété de l'objet, non une invitation.
+  - L'utiliser sur votre propre appareil, dans les limites de votre
+    autorisation.
+  - Conserver vos propres sauvegardes de votre propre travail, qui ne quitte
+    jamais votre appareil.
+
+SI VOUS L'AVEZ REÇU EN CADEAU
+  Il vous a été offert personnellement, pour votre propre usage, et non pour
+  être transmis. Si vous souhaitez qu'une autre personne en ait une copie,
+  demandez-le à l'auteur.
+
+CHAQUE COPIE DISTRIBUÉE EST MARQUÉE
+  Chaque copie porte un marqueur de version, et les copies offertes à une
+  personne nommée portent un marqueur propre à cette copie, enregistré à la
+  date du don. Une copie trouvée en circulation peut donc être rattachée à
+  la copie dont elle provient. Ceci est dit clairement ici plutôt que
+  dissimulé.
+
+AUCUNE GARANTIE
+  Le logiciel est fourni tel quel, sans garantie d'aucune sorte. L'auteur
+  n'est responsable d'aucune perte résultant de son utilisation. Conservez
+  vos propres sauvegardes.
+
+AUTORISATION
+  Une autorisation pour tout usage non mentionné ci-dessus peut être
+  accordée, et ne l'est que par écrit, par l'auteur. Demandez. La réponse
+  est parfois oui.
+
+===========================================================================
+Rien dans le présent avis ne limite un droit dont vous disposez et qui ne
+peut être limité par contrat en vertu de la loi qui vous est applicable.
+===========================================================================

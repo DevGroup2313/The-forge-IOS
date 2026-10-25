@@ -1,7 +1,8 @@
 THE FORGE  |  Copyright (c) 2026 Yannie D. Forest. All rights reserved.
-NO LICENCE IS GRANTED. No copying, adaptation, redistribution, reverse
-engineering or commercial use without the author's written permission.
-See LICENCE.txt. Every distributed copy carries a build marker.
+The sole original work of Yannie D. Forest. NO LICENCE IS GRANTED: no
+right of use, access, copying, adaptation or distribution without the
+author's written, revocable permission. See LICENCE.txt. Every
+distributed copy carries a build marker.
 --------------------------------------------------------------------------
 
 THE FORGE FOR IPHONE AND IPAD

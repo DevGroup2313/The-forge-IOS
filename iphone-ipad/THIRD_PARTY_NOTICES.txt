@@ -1,0 +1,52 @@
+THE FORGE: THIRD-PARTY NOTICES
+==============================
+
+The Forge itself is the sole original work of Yannie D. Forest; see
+LICENCE.txt. The finished apps also use the following separate open-source
+software and models, which remain under their own licences. They are not
+claimed by the author, and their licences do not extend to The Forge.
+
+1. llama.cpp (MIT licence), https://github.com/ggml-org/llama.cpp
+   Used by the copies of Inkwell and Ingenium that The Forge carries, in
+   the apps those copies build.
+
+   MIT License
+
+   Copyright (c) 2023-2026 The ggml authors
+
+   Permission is hereby granted, free of charge, to any person obtaining a
+   copy of this software and associated documentation files (the
+   "Software"), to deal in the Software without restriction, including
+   without limitation the rights to use, copy, modify, merge, publish,
+   distribute, sublicense, and/or sell copies of the Software, and to permit
+   persons to whom the Software is furnished to do so, subject to the
+   following conditions:
+
+   The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+2. The Mac and Windows apps are packaged with PyInstaller and draw their
+   window with pywebview, on the Python runtime. Each keeps its own licence:
+   Python (Python Software Foundation License), pywebview (BSD 3-Clause
+   License), PyInstaller (GPL 2.0 with an exception that permits
+   distributing the apps it packages), and, on the Mac, PyObjC (MIT).
+
+3. Downloaded once, only when first asked for, and then kept on the device:
+   Scriba's speech tools and the PDF reader it uses for slides. They are not
+   part of the distributed file. Transformers.js (Apache License 2.0) and
+   ONNX Runtime Web (MIT) run the models; the speech models are Moonshine
+   and Whisper (each published under the MIT licence); speakers are told
+   apart with pyannote segmentation 3.0 (MIT) and WeSpeaker ResNet34
+   (Creative Commons Attribution 4.0); the PDF reader is pdf.js (Apache
+   License 2.0).
+
+The licences named above can be read in full at the address of each
+project.
