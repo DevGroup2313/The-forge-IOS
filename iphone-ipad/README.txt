@@ -7,14 +7,25 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 651 (9s83), 2026-10-28. Made by The Forge, 28 October 2026.
+Build 652 (9s84), 2026-10-28. Made by The Forge, 28 October 2026.
 
-New in 651. The Forge carries Ingenium 6.8.7, whose Home shows its apps
+New in 652. Magister's card in the Forge is the Forge's own again: its
+three years (HTML, CSS and JavaScript; Python; C++), Open the lessons,
+and Lessons, Practice, Questions, Diary and Path. On some computers it
+was made before Carpe Diem's own marks were on its keys, and then kept
+Carpe Diem's row (Proposal, Curriculum, Research Writing, Ask the
+librarian, French Tutor) and Open Magister. It is now made right
+whenever it is made, and made again if it was made wrong. The Forge
+carries Ingenium 6.8.8, and Ingenium 6.8.8 carries this build of the
+Forge. The full page carries Ingenium 6.8.8, Carpe Diem 1058 and Inkwell
+7.52.
+
+New in 651, the build before. The Forge carries Ingenium 6.8.7, whose Home shows its apps
 at the size of Carpe Diem's keys on Magister's dock, and Ingenium 6.8.7
 carries this build of the Forge. Everything else is as in 650. The full
 page carries Ingenium 6.8.7, Carpe Diem 1058 and Inkwell 7.52.
 
-New in 650, the build before. The Forge carries the latest Ingenium, and Ingenium the
+New in 650. The Forge carries the latest Ingenium, and Ingenium the
 latest Forge: this build carries Ingenium 6.8.6, and Ingenium 6.8.6
 carries this build of the Forge. Everything else is as in 649. The full
 page carries Ingenium 6.8.6, Carpe Diem 1058 and Inkwell 7.52.
