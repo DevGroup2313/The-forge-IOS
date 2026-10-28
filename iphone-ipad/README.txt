@@ -7,14 +7,19 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 650 (9s82), 2026-10-28. Made by The Forge, 28 October 2026.
+Build 651 (9s83), 2026-10-28. Made by The Forge, 28 October 2026.
 
-New in 650. The Forge carries the latest Ingenium, and Ingenium the
+New in 651. The Forge carries Ingenium 6.8.7, whose Home shows its apps
+at the size of Carpe Diem's keys on Magister's dock, and Ingenium 6.8.7
+carries this build of the Forge. Everything else is as in 650. The full
+page carries Ingenium 6.8.7, Carpe Diem 1058 and Inkwell 7.52.
+
+New in 650, the build before. The Forge carries the latest Ingenium, and Ingenium the
 latest Forge: this build carries Ingenium 6.8.6, and Ingenium 6.8.6
 carries this build of the Forge. Everything else is as in 649. The full
 page carries Ingenium 6.8.6, Carpe Diem 1058 and Inkwell 7.52.
 
-New in 649, the build before. The seal in About is a key, as Carpe Diem's is: Tab reaches
+New in 649. The seal in About is a key, as Carpe Diem's is: Tab reaches
 it, it sinks while pressed and knocks when let go (Enter and Space too),
 and it keeps still when movement is reduced. Tabula, Abacus and Imago
 inside the Forge wear the Forge's seal, name and colour in their Seals &
