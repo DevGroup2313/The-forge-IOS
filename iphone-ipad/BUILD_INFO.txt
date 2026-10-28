@@ -1,9 +1,9 @@
 The Forge
 Build: 2026-10-28
-Pass: 652
-Stamp: 9s84
+Pass: 653
+Stamp: 9s85
 Copyright (c) 2026 Yannie D. Forest. All rights reserved.
 NO LICENCE IS GRANTED.
 
 Fingerprints (SHA-256). A copy whose fingerprint differs is not the owner's release (LICENCE.txt):
-  fdb38adcac10ca02b446ec931848ab845512482e6620f5e8db13c159aaab24b6  TheForge/www/the_forge.html (72063736 bytes)
+  0ccfa97048a86732c9d01061278c8fb25994fc9f323086e3e8886bc78e7b930e  TheForge/www/the_forge.html (72104012 bytes)
