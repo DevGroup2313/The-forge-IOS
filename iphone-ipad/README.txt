@@ -7,16 +7,26 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 654 (9s86), 2026-10-28. Made by The Forge, 28 October 2026.
+Build 655 (9s87), 2026-10-28. Made by The Forge, 28 October 2026.
 
-New in 654. The Forge carries Ingenium 6.8.10, whose pages end with a
+New in 655. The Forge carries Ingenium 6.8.11, in which a model works on
+her apps the way a careful engineer does: it searches, reads the exact
+lines, changes them, runs the app and mends its errors, in Code, in a
+chat with files and on the Build page, with Claude, Kimi, Ollama and the
+models on the device; each task has its way (Do it for me, Step by step
+with me, Guide me, I do it); and every connection she sets up is kept,
+so the model menu offers all their models. Ingenium 6.8.11 carries this
+build of the Forge. Everything else is as in 654. The full page carries
+Ingenium 6.8.11, Carpe Diem 1058 and Inkwell 7.52.
+
+New in 654, the build before. The Forge carries Ingenium 6.8.10, whose pages end with a
 colophon (its seal, its name and "Designed and built by Yannie D. Forest
 · © 2026 Yannie D. Forest") and whose About ends with who made it; and
 Ingenium 6.8.10 carries this build of the Forge. Everything else is as
 in 653. The full page carries Ingenium 6.8.10, Carpe Diem 1058 and
 Inkwell 7.52.
 
-New in 653, the build before. Tabula, Abacus and Imago inside the Forge now have every fix
+New in 653. Tabula, Abacus and Imago inside the Forge now have every fix
 Ingenium's have. Tabula's ribbon gives a colour, a highlight, a size,
 bold, Grow and Shrink at the first press, on selected words and on the
 words typed next, and they stay; its PDF and Word files carry no Header
