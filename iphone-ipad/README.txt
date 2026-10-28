@@ -7,9 +7,19 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 655 (9s87), 2026-10-28. Made by The Forge, 28 October 2026.
+Build 656 (9s88), 2026-10-28. Made by The Forge, 28 October 2026.
 
-New in 655. The Forge carries Ingenium 6.8.11, in which a model works on
+New in 656. The Forge carries Ingenium 6.8.12, whose Career Studio has a
+calm Today (only the next small step of each application, with its
+closing date), a checklist made from each posting's own sentences, a
+statement of purpose, a teaching statement, a funding application and
+the choice of a writing sample, changes taken one by one, a way of
+working chosen for each task, and several profiles (other sides of her,
+and other people she helps), each with its own applications. Ingenium
+6.8.12 carries this build of the Forge. Everything else is as in 655.
+The full page carries Ingenium 6.8.12, Carpe Diem 1058 and Inkwell 7.52.
+
+New in 655, the build before. The Forge carries Ingenium 6.8.11, in which a model works on
 her apps the way a careful engineer does: it searches, reads the exact
 lines, changes them, runs the app and mends its errors, in Code, in a
 chat with files and on the Build page, with Claude, Kimi, Ollama and the
@@ -19,7 +29,7 @@ so the model menu offers all their models. Ingenium 6.8.11 carries this
 build of the Forge. Everything else is as in 654. The full page carries
 Ingenium 6.8.11, Carpe Diem 1058 and Inkwell 7.52.
 
-New in 654, the build before. The Forge carries Ingenium 6.8.10, whose pages end with a
+New in 654. The Forge carries Ingenium 6.8.10, whose pages end with a
 colophon (its seal, its name and "Designed and built by Yannie D. Forest
 · © 2026 Yannie D. Forest") and whose About ends with who made it; and
 Ingenium 6.8.10 carries this build of the Forge. Everything else is as
