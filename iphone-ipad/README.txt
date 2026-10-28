@@ -7,9 +7,16 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 THE FORGE FOR IPHONE AND IPAD
 =============================
 
-Build 653 (9s85), 2026-10-28. Made by The Forge, 28 October 2026.
+Build 654 (9s86), 2026-10-28. Made by The Forge, 28 October 2026.
 
-New in 653. Tabula, Abacus and Imago inside the Forge now have every fix
+New in 654. The Forge carries Ingenium 6.8.10, whose pages end with a
+colophon (its seal, its name and "Designed and built by Yannie D. Forest
+· © 2026 Yannie D. Forest") and whose About ends with who made it; and
+Ingenium 6.8.10 carries this build of the Forge. Everything else is as
+in 653. The full page carries Ingenium 6.8.10, Carpe Diem 1058 and
+Inkwell 7.52.
+
+New in 653, the build before. Tabula, Abacus and Imago inside the Forge now have every fix
 Ingenium's have. Tabula's ribbon gives a colour, a highlight, a size,
 bold, Grow and Shrink at the first press, on selected words and on the
 words typed next, and they stay; its PDF and Word files carry no Header
@@ -21,7 +28,7 @@ carries Ingenium 6.8.9, and Ingenium 6.8.9 carries this build of the
 Forge. The full page carries Ingenium 6.8.9, Carpe Diem 1058 and Inkwell
 7.52.
 
-New in 652, the build before. Magister's card in the Forge is the Forge's own again: its
+New in 652. Magister's card in the Forge is the Forge's own again: its
 three years (HTML, CSS and JavaScript; Python; C++), Open the lessons,
 and Lessons, Practice, Questions, Diary and Path. On some computers it
 was made before Carpe Diem's own marks were on its keys, and then kept
